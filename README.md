@@ -10,3 +10,4 @@ canaray leak + stack overflow + One gadget RCE (or short ROP using libc)
   
 ## Notice
 Source code (20190921.c) and Dockerfile were not provided during the CTF.  
+exploit.py has some bug and success rate is 80-90%.
